@@ -104,6 +104,9 @@ CV Mean: 0.8102
 
 ### 5. Launch Streamlit Dashboard (in Terminal 3)
 
+Streamlit app is available in the the following link :  **https://anarsultani97-maf-sample-app-ib8xlr.streamlit.app/** 
+
+
 ```bash
 streamlit run streamlit_app.py
 ```
