@@ -1,0 +1,20 @@
+feature,importance
+browsing_history_News,0.07132720947265625
+browsing_history_Social Media,0.06532572954893112
+gender_Non-Binary,0.05864325910806656
+browsing_history_Entertainment,0.058375559747219086
+browsing_history_Shopping,0.058088574558496475
+time_of_day_Evening,0.056856706738471985
+time_of_day_Night,0.05658815801143646
+device_type_Mobile,0.0560896061360836
+age,0.05388355255126953
+ad_position_Top,0.053651999682188034
+time_of_day_Morning,0.051794636994600296
+device_type_Tablet,0.0516715906560421
+gender_Male,0.04888655245304108
+ad_position_Side,0.046503350138664246
+time_of_day_Unknown,0.0433243028819561
+ad_position_Unknown,0.043139152228832245
+gender_Unknown,0.043115098029375076
+device_type_Unknown,0.043050143867731094
+browsing_history_Unknown,0.03968477249145508

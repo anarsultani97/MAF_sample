@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/MAF/mlruns/835125283187700229/6cd1bbfa60ac409f9d96fd6f6e65b633/artifacts
+end_time: 1763081626874
+entry_point_name: ''
+experiment_id: '835125283187700229'
+lifecycle_stage: active
+run_id: 6cd1bbfa60ac409f9d96fd6f6e65b633
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763081624262
+status: 3
+tags: []
+user_id: NEXT NEXT NEXT TY

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/MAF/mlruns/835125283187700229/3b3adffbed364741990de93cfc44dec1/artifacts
+end_time: 1763084171799
+entry_point_name: ''
+experiment_id: '835125283187700229'
+lifecycle_stage: active
+run_id: 3b3adffbed364741990de93cfc44dec1
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763084169500
+status: 3
+tags: []
+user_id: NEXT NEXT NEXT TY

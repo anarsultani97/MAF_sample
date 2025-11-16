@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/MAF/mlruns/835125283187700229/dbb235bf90044ee0ab33dcd92465151c/artifacts
+end_time: 1763253550635
+entry_point_name: ''
+experiment_id: '835125283187700229'
+lifecycle_stage: active
+run_id: dbb235bf90044ee0ab33dcd92465151c
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763253526307
+status: 3
+tags: []
+user_id: NEXT NEXT NEXT TY
